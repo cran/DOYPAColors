@@ -1,0 +1,12 @@
+11191ad88d6d24572359b493873229e0 *DESCRIPTION
+4368ebb97fa948f60d721be91270abe3 *LICENSE
+8408181cecd6097834abf2bdaa3f6b0a *NAMESPACE
+060d2c031f80c67cf0c4462c406d30ec *NEWS.md
+cb1eea1d06799d3b992f32b719c23826 *R/DOYPAColors_functions.R
+119ddbe42c6544b33c157cfd283d3794 *man/doypa.Rd
+41af81af76afab9efb50d443e4346412 *man/doypa_palette.Rd
+888021bb37f0e52f055ed09a87c8033c *man/list_doypa_pals.Rd
+f1255a176131c2a630250924d4e43a85 *man/preview_doypa_pals.Rd
+ff82aa784ca6992bb8c3236342d4b857 *man/scale_color_doypa.Rd
+95d94bb3cc981a3fa45b6e2ef1525d37 *man/scale_colour_doypa.Rd
+038b3079a921cd50924b56caac1ea63f *man/scale_fill_doypa.Rd
